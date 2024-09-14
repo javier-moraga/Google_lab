@@ -9,7 +9,7 @@ Ingresar el siguiente comando
 gcloud auth list
 ```
 
-Resultado: 
+##### Resultado: 
 ```
 student_04_7b33df48a056@cloudshell:~ (qwiklabs-gcp-02-6f263c0fe357)$ gcloud auth list
 Credentialed Accounts
@@ -29,6 +29,7 @@ To set the active account, run:
 gcloud config list project
 ```
 
+##### Resultado:
 
 ```
 student_04_7b33df48a056@cloudshell:~ (qwiklabs-gcp-02-6f263c0fe357)$ gcloud config list project
@@ -38,4 +39,6 @@ project = qwiklabs-gcp-02-6f263c0fe357
 Your active configuration is: [cloudshell-11781]
 ```
 
+> [!IMPORTANT]
+> Validar que API Dataflow este activa.
 
