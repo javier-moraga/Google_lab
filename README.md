@@ -6,8 +6,8 @@ Procesamiento ETL en Google Cloud a través de Dataflow y BigQuery (Python)
 En Google Cloud, puedes crear canalizaciones de datos que ejecutan código de Python para transferir y transformar 
 datos de conjuntos de datos públicos a BigQuery con estos servicios de Google Cloud:
 
-• Cloud Storage
-• Dataflow
+• Cloud Storage /t
+• Dataflow /n
 • BigQuery
 
 En este lab, usarás estos servicios para crear tu propia canalización de datos, incluidos los detalles de implementación 
