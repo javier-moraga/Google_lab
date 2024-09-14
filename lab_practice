@@ -2,10 +2,8 @@ Curso
 
 ### 1.- abrir cloud shell
 
-[!IMPORTANT]
+
 Validar cuenta activa
 Ingresar el siguiente comando
 
-```
 gcloud auth list
-```
