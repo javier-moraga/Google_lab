@@ -1,4 +1,4 @@
-# English
+## English
 
 # Google_lab
 ETL processing in Google Cloud via Dataflow and BigQuery (Python)
@@ -22,7 +22,7 @@ In this lab, you will learn how to do the following:
 • Create and run Dataflow pipelines (Python) to transfer data <br/>
 • Create and run Dataflow pipelines (Python) to transform and enrich data
 
-# Spanish
+## Spanish
 
 # Google_lab
 Procesamiento ETL en Google Cloud a través de Dataflow y BigQuery (Python)
