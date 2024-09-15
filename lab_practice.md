@@ -50,4 +50,29 @@ Se debe volver habilitar la API Dataflow.
 
 Se valida la tarea de progreso ✅
 
+### 3.- Descarga el código de partida
 
+#### 3.1.- Ejecuta el siguiente comando en Cloud Shell para obtener ejemplos de Dataflow para Python del GitHub de servicios profesionales de Google Cloud (https://github.com/GoogleCloudPlatform/professional-services/blob/master/examples/dataflow-python-examples/README.md):
+
+```
+Ingresar el siguiente codigo en Google Shell
+gsutil -m cp -R gs://spls/gsp290/dataflow-python-examples .
+```
+#### 3.2.- Establecer una variable igual a nuestra ID del proyecto
+
+```
+export PROJECT=qwiklabs-gcp-03-1b80db7af537
+```
+
+#### 3.3.- Modificamos finalmente el nombre
+
+```
+gcloud config set project $PROJECT
+```
+
+##### Resultado
+
+```
+student_04_7b33df48a056@cloudshell:~ (qwiklabs-gcp-03-1b80db7af537)$ gcloud config set project $PROJECT
+Updated property [core/project].
+```
