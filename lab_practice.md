@@ -1022,3 +1022,7 @@ python dataflow_python_examples/data_lake_to_mart.py \
 #### Deberías ver la tabla orders_denormalized_sideinput debajo del conjunto de datos lake.
 
 Haz clic en la tabla y navega a la sección Vista previa para ver ejemplos de datos de orders_denormalized_sideinput.
+
+```
+Se valida la tarea de progreso ✅
+```
