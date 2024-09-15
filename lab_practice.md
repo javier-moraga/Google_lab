@@ -11,7 +11,6 @@ gcloud auth list
 
 ##### Resultado: 
 ```
-student_04_7b33df48a056@cloudshell:~ (qwiklabs-gcp-02-6f263c0fe357)$ gcloud auth list
 Credentialed Accounts
 
 ACTIVE: *
@@ -32,12 +31,23 @@ gcloud config list project
 ##### Resultado:
 
 ```
-student_04_7b33df48a056@cloudshell:~ (qwiklabs-gcp-02-6f263c0fe357)$ gcloud config list project
+student_04_7b33df48a056@cloudshell:~ (qwiklabs-gcp-03-1b80db7af537)$ gcloud config list project
 [core]
-project = qwiklabs-gcp-02-6f263c0fe357
+project = qwiklabs-gcp-03-1b80db7af537
 
-Your active configuration is: [cloudshell-11781]
+Your active configuration is: [cloudshell-17100]
 ```
 
+### 2.- Validar Dataflow
+
+#### 2.1.- Deshabilitar Dataflow API
+
+Se debe deshabilitar buscando Dataflow API, luego seleccionar *Disable API*
+
+#### 2.2.- Habilitar Dataflow API
+
+Se debe volver habilitar la API Dataflow.
+
+Se valida la tarea de progreso ✅
 
 
