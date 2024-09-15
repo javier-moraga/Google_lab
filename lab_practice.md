@@ -39,6 +39,5 @@ project = qwiklabs-gcp-02-6f263c0fe357
 Your active configuration is: [cloudshell-11781]
 ```
 
-> [!IMPORTANT]
-> Validar que API Dataflow este activa.
+
 
